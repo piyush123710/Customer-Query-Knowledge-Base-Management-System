@@ -1,0 +1,6 @@
+{
+  "name": "ResolveBase",
+  "description": "Customer Query & Knowledge Base Management System with 110+ searchable FAQs, troubleshooting guides, automated query categorization, and an admin documentation console.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
